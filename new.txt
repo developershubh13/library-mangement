@@ -1,1 +1,2 @@
 this is new text 
+new1 committed
